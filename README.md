@@ -1,6 +1,5 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=oskar1mov)
 ### Hi, my name is Oskar👋
-### 🌱 I am currently learning the fundamentals of Java, Spring Framework, and database management systems.
 
 <!--
 **oskar1mov/oskar1mov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
