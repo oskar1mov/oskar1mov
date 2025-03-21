@@ -1,6 +1,5 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=oskar1mov)
 ### Hi, my name is Oskar👋
-### Im a second-year student at Cracow University of Technology, majoring in Applied Informatics.
 ### 🌱 I am currently learning the fundamentals of Java, Spring Framework, and database management systems.
 
 <!--
